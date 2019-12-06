@@ -1,0 +1,16 @@
+{
+  "name": "galaxybot",
+  "version": "0.1.0",
+  "description": "Le bot de XeDFRostE",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "XeDFRostE",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "fw2": "^0.3.3",
+    "start": "^5.1.0"
+  }
+}
